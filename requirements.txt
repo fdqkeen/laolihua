@@ -1,0 +1,6 @@
+# 银发中国 · 数说老龄化 —— Streamlit 部署依赖
+# 安装命令（国内推荐清华镜像，速度更快）：
+#   pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+streamlit>=1.30
+plotly>=5.18
+pandas>=2.0
